@@ -3,7 +3,7 @@ import React from "react";
 
 import { Section } from "components/Section";
 
-const videoUrl = "https://www.youtube.com/embed/9xwazD5SyVg";
+const videoUrl = "https://www.youtube.com/embed/Xq-FuDSxXFM";
 
 const Video: FC = (): JSX.Element => {
   return (
