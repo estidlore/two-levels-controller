@@ -1,10 +1,10 @@
-declare module "*.gif" {
-  const value: any;
+declare module "*.jpg" {
+  const value: string;
   export = value;
 }
 
-declare module "*.jpg" {
-  const value: any;
+declare module "*.jpeg" {
+  const value: string;
   export = value;
 }
 
@@ -14,11 +14,6 @@ declare module "*.pdf" {
 }
 
 declare module "*.png" {
-  const value: any;
-  export = value;
-}
-
-declare module "*.svg" {
-  const value: any;
+  const value: string;
   export = value;
 }
