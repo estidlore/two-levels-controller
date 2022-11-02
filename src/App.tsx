@@ -1,10 +1,11 @@
 import type { FC } from "react";
 import React from "react";
-
-import { Home } from "views";
+import { TMP36 } from "views/TMP36";
 
 const App: FC = (): JSX.Element => (
-  <Home />
+  <div className={"align-items-center bg-light d-flex flex-column text-dark"}>
+    <TMP36 />
+  </div>
 );
 
 export { App };

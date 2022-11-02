@@ -1,3 +1,3 @@
-# Template React Ts Sass
+# Two Levels Controller
 ---
-This is a template for React with Typescript strict rules and sass support
+Two levels controller's wiki
